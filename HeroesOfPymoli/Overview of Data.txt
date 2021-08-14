@@ -1,0 +1,10 @@
+Males are the high majority of players and therefore having more total purchase value, 
+but Female and Other, on average have a higher total purchase per person.
+
+Likewise ages 15-24 hold the high majority for player ages, 
+but players 10 and under and players 35-39 have a higher Average Total purchase per person. 
+
+The SN with the highest purchase count has only made 5 purchases. 
+There are a total of 780 purchases over 576 total players which puts the purchase average 
+around 1.35 purchases pur person. Increasing the amount of multiple purchases would be very 
+valuable. 
